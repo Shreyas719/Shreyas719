@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**Shreyas719/Shreyas719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+   Hi , I am Shreyas Bhagwat 👋
 
 - 🔭 I’m currently working on ... Bootstrap
 - 🌱 I’m currently learning ... Fullstack
